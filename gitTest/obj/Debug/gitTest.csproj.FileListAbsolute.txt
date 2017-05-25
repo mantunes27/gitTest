@@ -1,1 +1,7 @@
 c:\users\mantunes\documents\visual studio 2015\Projects\gitTest\gitTest\bin\Debug\gitTest.exe.config
+C:\Users\MAntunes\Documents\GitHub\gitTest\gitTest\bin\Debug\gitTest.exe.config
+C:\Users\MAntunes\Documents\GitHub\gitTest\gitTest\bin\Debug\gitTest.exe
+C:\Users\MAntunes\Documents\GitHub\gitTest\gitTest\bin\Debug\gitTest.pdb
+C:\Users\MAntunes\Documents\GitHub\gitTest\gitTest\obj\Debug\gitTest.csprojResolveAssemblyReference.cache
+C:\Users\MAntunes\Documents\GitHub\gitTest\gitTest\obj\Debug\gitTest.exe
+C:\Users\MAntunes\Documents\GitHub\gitTest\gitTest\obj\Debug\gitTest.pdb
